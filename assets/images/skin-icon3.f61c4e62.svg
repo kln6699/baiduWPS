@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 60 60">
+  <defs>
+    <linearGradient id="超级会员皮肤备份-a" x1="50%" x2="50%" y1=".456%" y2="100%">
+      <stop offset="0%" stop-color="#333"/>
+      <stop offset="100%" stop-color="#333"/>
+    </linearGradient>
+    <linearGradient id="超级会员皮肤备份-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#F5A623" stop-opacity=".243"/>
+      <stop offset="100%" stop-opacity="0"/>
+    </linearGradient>
+    <circle id="超级会员皮肤备份-b" cx="30" cy="30" r="28"/>
+    <linearGradient id="超级会员皮肤备份-e" x1="13.311%" x2="75.403%" y1="100%" y2=".005%">
+      <stop offset="0%" stop-color="#DEA157"/>
+      <stop offset="62.256%" stop-color="#C57247"/>
+      <stop offset="100%" stop-color="#A76134"/>
+    </linearGradient>
+    <path id="超级会员皮肤备份-d" d="M28.5984115,14.3043076 L10.7840476,14.3043076 L10.7840476,34.5338026 C10.7840476,34.8974016 11.0791335,35.1921568 11.4431403,35.1921568 C11.6299842,35.1921568 11.8080481,35.1129427 11.93304,34.9742183 L29.0883112,15.4030775 C29.3318189,15.1328165 29.3098854,14.7165459 29.0393212,14.473311 C28.9182955,14.3645099 28.7612349,14.3043076 28.5984115,14.3043076 Z"/>
+    <linearGradient id="超级会员皮肤备份-f" x1="22.518%" x2="74.273%" y1="62.025%" y2="35.157%">
+      <stop offset="0%" stop-color="#FFE4BF"/>
+      <stop offset="89.955%" stop-color="#FFD69D"/>
+      <stop offset="100%" stop-color="#FFD499"/>
+    </linearGradient>
+    <linearGradient id="超级会员皮肤备份-h" x1="81.287%" x2="62.112%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#F7D6A9"/>
+      <stop offset="36.408%" stop-color="#FFC87C"/>
+      <stop offset="96.459%" stop-color="#E4AB5A"/>
+      <stop offset="100%" stop-color="#E3A957"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="url(#超级会员皮肤备份-a)" xlink:href="#超级会员皮肤备份-b"/>
+    <use fill="url(#超级会员皮肤备份-c)" xlink:href="#超级会员皮肤备份-b"/>
+    <path fill="#F4C482" fill-rule="nonzero" d="M30,0 C13.4314575,0 0,13.4314575 0,30 C0,46.5685425 13.4314575,60 30,60 C46.5685425,60 60,46.5685425 60,30 C60,13.4314575 46.5685425,0 30,0 Z M30,2 C45.463973,2 58,14.536027 58,30 C58,45.463973 45.463973,58 30,58 C14.536027,58 2,45.463973 2,30 C2,14.536027 14.536027,2 30,2 Z"/>
+    <g transform="translate(16 13)">
+      <mask id="超级会员皮肤备份-g" fill="#fff">
+        <use xlink:href="#超级会员皮肤备份-d"/>
+      </mask>
+      <use fill="url(#超级会员皮肤备份-e)" xlink:href="#超级会员皮肤备份-d"/>
+      <polygon fill="url(#超级会员皮肤备份-f)" points="18.563 20.888 30.646 14.304 18.563 14.304" mask="url(#超级会员皮肤备份-g)"/>
+      <path fill="url(#超级会员皮肤备份-h)" d="M0.659098345,20.8878491 L18.4734622,20.8878491 L18.4734622,0.658354152 C18.4734622,0.294755194 18.1783763,0 17.8143695,0 C17.6275256,0 17.4494617,0.0792140987 17.3244698,0.217938443 L0.169198617,19.7890793 C-0.0743091177,20.0593403 -0.0523755597,20.4756109 0.218188589,20.7188458 C0.339214289,20.8276469 0.496274919,20.8878491 0.659098345,20.8878491 Z"/>
+    </g>
+  </g>
+</svg>

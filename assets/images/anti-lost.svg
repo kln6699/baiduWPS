@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="云端防丢-a" x1="23.157%" x2="74.832%" y1="83.292%" y2="21.639%">
+      <stop offset="0%" stop-color="#F8F8F8"/>
+      <stop offset="100%" stop-color="#EEE"/>
+    </linearGradient>
+    <linearGradient id="云端防丢-b" x1="36.427%" x2="90.27%" y1="94.342%" y2="-10.674%">
+      <stop offset="0%" stop-color="#C5C5C5"/>
+      <stop offset="100%" stop-color="#F7F7F7"/>
+    </linearGradient>
+    <path id="云端防丢-e" d="M26.25,3.36129746 C26.25,1.95524913 27.4112292,0.815421756 28.843678,0.815421756 L87.8093272,0.708333333 C89.2417761,0.708333333 90.4030053,1.84816071 90.4030053,3.25420903 L90.78125,65.1695019 C90.78125,66.5755503 89.6200208,67.7153776 88.187572,67.7153776 L29.0733266,67.875 C27.6408778,67.875 26.4796486,66.7351726 26.4796486,65.3291243 L26.25,3.36129746 Z"/>
+    <filter id="云端防丢-c" width="112.4%" height="111.9%" x="-12.4%" y="-3%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic"/>
+    </filter>
+    <filter id="云端防丢-d" width="124.8%" height="123.8%" x="-18.6%" y="-8.9%" filterUnits="objectBoundingBox">
+      <feOffset dx="-4" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.255244755 0"/>
+    </filter>
+    <linearGradient id="云端防丢-f" x1="100%" x2="0%" y1="33.749%" y2="33.749%">
+      <stop offset="0%" stop-color="#FF995B"/>
+      <stop offset="100%" stop-color="#FC3336"/>
+    </linearGradient>
+    <linearGradient id="云端防丢-g" x1="84.524%" x2="21.961%" y1="50%" y2="102.516%">
+      <stop offset="0%" stop-color="#FFA389"/>
+      <stop offset="100%" stop-color="#D81616"/>
+    </linearGradient>
+    <path id="云端防丢-i" d="M9.5,20 L34.5,20 C35.3284271,20 36,20.6715729 36,21.5 C36,22.3284271 35.3284271,23 34.5,23 L9.5,23 C8.67157288,23 8,22.3284271 8,21.5 C8,20.6715729 8.67157288,20 9.5,20 Z"/>
+    <filter id="云端防丢-h" width="114.3%" height="233.3%" x="-10.7%" y="-33.3%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.979393116   0 0 0 0 0.215607351   0 0 0 0 0.154504489  0 0 0 0.541657561 0"/>
+    </filter>
+    <path id="云端防丢-k" d="M9.5,11 L60.5,11 C61.3284271,11 62,11.6715729 62,12.5 C62,13.3284271 61.3284271,14 60.5,14 L9.5,14 C8.67157288,14 8,13.3284271 8,12.5 C8,11.6715729 8.67157288,11 9.5,11 Z"/>
+    <filter id="云端防丢-j" width="107.4%" height="233.3%" x="-5.6%" y="-33.3%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.979393116   0 0 0 0 0.215607351   0 0 0 0 0.154504489  0 0 0 0.541657561 0"/>
+    </filter>
+    <linearGradient id="云端防丢-n" x1="23.376%" x2="100%" y1="31.572%" y2="71.255%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#F7F7F7"/>
+    </linearGradient>
+    <linearGradient id="云端防丢-o" x1="-32.057%" x2="100%" y1="86.552%" y2="36.018%">
+      <stop offset="0%" stop-color="#C5C5C5"/>
+      <stop offset="100%" stop-color="#F7F7F7"/>
+    </linearGradient>
+    <circle id="云端防丢-m" cx="71.909" cy="52.182" r="19"/>
+    <filter id="云端防丢-l" width="128%" height="128%" x="-16.7%" y="-11.4%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius=".327" result="shadowSpreadOuter1"/>
+      <feOffset dx="-1" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.708644701   0 0 0 0 0   0 0 0 0 0  0 0 0 0.606861888 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="120" height="120"/>
+    <g transform="translate(12.09 8.818)">
+      <g transform="translate(.91 10.182)">
+        <path fill="url(#云端防丢-a)" stroke="url(#云端防丢-b)" stroke-width="1.091" d="M3.27272727,11 L66.7272727,11 C68.5347501,11 70,12.4652499 70,14.2727273 L70,85.7272727 C70,87.5347501 68.5347501,89 66.7272727,89 L3.27272727,89 C1.46524991,89 1.55361977e-15,87.5347501 0,85.7272727 L0,14.2727273 C-2.21352137e-16,12.4652499 1.46524991,11 3.27272727,11 Z"/>
+        <g filter="url(#云端防丢-c)" opacity=".643">
+          <use fill="#000" filter="url(#云端防丢-d)" xlink:href="#云端防丢-e"/>
+          <use fill="#525252" xlink:href="#云端防丢-e"/>
+        </g>
+      </g>
+      <path fill="#FD403B" d="M1.68181818.971428571L54.6818182.971428571C55.5102453.971428571 56.1818182 1.64300145 56.1818182 2.47142857 56.1818182 3.2998557 55.5102453 3.97142857 54.6818182 3.97142857L1.68181818 3.97142857C.853391057 3.97142857.181818182 3.2998557.181818182 2.47142857.181818182 1.64300145.853391057.971428571 1.68181818.971428571zM1.68181818 9.97142857L54.6818182 9.97142857C55.5102453 9.97142857 56.1818182 10.6430014 56.1818182 11.4714286 56.1818182 12.2998557 55.5102453 12.9714286 54.6818182 12.9714286L1.68181818 12.9714286C.853391057 12.9714286.181818182 12.2998557.181818182 11.4714286.181818182 10.6430014.853391057 9.97142857 1.68181818 9.97142857z" transform="translate(8.727 33.21)"/>
+      <g transform="translate(24.91 .182)">
+        <rect width="68.909" height="76.909" x=".545" y=".545" fill="url(#云端防丢-f)" stroke="url(#云端防丢-g)" stroke-width="1.091" rx="3.273"/>
+        <use fill="#000" filter="url(#云端防丢-h)" xlink:href="#云端防丢-i"/>
+        <use fill="#FFF" xlink:href="#云端防丢-i"/>
+        <use fill="#000" filter="url(#云端防丢-j)" xlink:href="#云端防丢-k"/>
+        <use fill="#FFF" xlink:href="#云端防丢-k"/>
+      </g>
+      <use fill="#000" filter="url(#云端防丢-l)" xlink:href="#云端防丢-m"/>
+      <use fill="url(#云端防丢-n)" stroke="url(#云端防丢-o)" stroke-width=".655" xlink:href="#云端防丢-m"/>
+      <path fill="#FC423B" fill-rule="nonzero" d="M12.5000131,5.55111512e-16 C8.31042899,5.55111512e-16 4.60971521,2.05864108 2.34372955,5.21284461 L2.34372955,3.11461277 C2.34372955,2.46951625 1.81904992,1.94664607 1.17186477,1.94664607 C0.524679627,1.94664607 0,2.46954242 0,3.11461277 L0,7.78647959 C0,8.43141911 0.524679627,8.9544463 1.17186477,8.9544463 L6.24995419,8.9544463 C6.89713934,8.9544463 7.42181897,8.43144528 7.42181897,7.78647959 C7.42181897,7.14138307 6.89713934,6.61851289 6.24995419,6.61851289 L4.21154609,6.61851289 C6.05007125,4.0286805 9.07464879,2.33598575 12.5000393,2.33598575 C18.1090121,2.33598575 22.6561657,6.86796347 22.6561657,12.4583726 C22.6561657,18.048677 18.1090121,22.5807594 12.5000393,22.5807594 C7.77242558,22.5807594 3.81099492,19.3566637 2.67889209,14.997624 L2.65855303,15.0039565 C2.50065703,14.5451171 2.07652093,14.2102311 1.56246892,14.2102311 C0.915283768,14.2102311 0.390604141,14.7331274 0.390604141,15.3780669 C0.390604141,15.4931758 0.425261685,15.5974516 0.456306888,15.7023815 L0.444108688,15.706228 C0.451804548,15.7345146 0.465913624,15.7598182 0.473766542,15.7879477 C0.482378575,15.8106346 0.488111206,15.8332953 0.498084411,15.8553541 C1.98500826,21.0795029 6.78196321,24.9166667 12.5001178,24.9166667 C19.403618,24.9166667 25,19.3388177 25,12.4583464 C25,5.57774426 19.4035395,5.55111512e-16 12.5000131,5.55111512e-16 L12.5000131,5.55111512e-16 Z M11,8 L11,15 C11,15.5983514 11.4313001,16 12,16 L16.432487,16 C17.0011869,16 17.5,15.5982058 17.5,15 C17.5,14.4015515 17.0686999,14 16.5,14 L13,14 L13,8 C13,7.40164856 12.5686999,7 12,7 C11.4313231,7 11,7.40167283 11,8 Z" transform="translate(59.91 40.182)"/>
+    </g>
+  </g>
+</svg>
