@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 611 468">
+  <defs>
+    <linearGradient id="电脑-d" x1="50%" x2="48.66%" y1="27.551%" y2="69.37%">
+      <stop offset="0%" stop-color="#E0F0FF"/>
+      <stop offset="100%" stop-color="#DAE6F6"/>
+    </linearGradient>
+    <path id="电脑-c" d="M14.4144144,5.68434189e-14 L596.396396,5.68434189e-14 C604.357258,5.71573892e-14 610.810811,6.45355316 610.810811,14.4144144 L610.810811,365.765766 C610.810811,373.726627 604.357258,380.18018 596.396396,380.18018 L14.4144144,380.18018 C6.45355316,380.18018 1.39703497e-12,373.726627 1.36424205e-12,365.765766 L1.36424205e-12,14.4144144 C1.36326713e-12,6.45355316 6.45355316,6.00821622e-14 14.4144144,5.68434189e-14 Z"/>
+    <filter id="电脑-a" width="101.3%" height="102.1%" x="-.8%" y="-.5%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic"/>
+    </filter>
+    <filter id="电脑-b" width="102.3%" height="103.7%" x="-1.3%" y="-1.3%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.384482407   0 0 0 0 0.393211009   0 0 0 0 0.41015625  0 0 0 0.347055288 0"/>
+    </filter>
+    <filter id="电脑-e" width="101.8%" height="102.9%" x="-1.1%" y="-.9%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="1"/>
+      <feOffset dx="-1" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.855110937   0 0 0 0 0.908653746   0 0 0 0 0.980044158  0 0 0 1 0"/>
+    </filter>
+    <linearGradient id="电脑-g" x1="51.885%" x2="51.885%" y1="0%" y2="114.367%">
+      <stop offset="0%" stop-color="#CEDFF5"/>
+      <stop offset="67.355%" stop-color="#E7F1FC"/>
+      <stop offset="100%" stop-color="#C4CCD6"/>
+      <stop offset="100%" stop-color="#C4CCD6"/>
+    </linearGradient>
+    <linearGradient id="电脑-i" x1="50%" x2="50%" y1="0%" y2="1.654%">
+      <stop offset="0%" stop-color="#F2F3F4"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+    </linearGradient>
+    <path id="电脑-h" d="M189,452 L416,452 C417.96969,452 419.909097,452.484852 421.647059,453.411765 L438.411765,462.352941 C439.873695,463.132637 440.426755,464.949834 439.647059,466.411765 C439.125677,467.389355 438.107936,468 437,468 L168,468 C166.343146,468 165,466.656854 165,465 C165,463.892064 165.610645,462.874323 166.588235,462.352941 L183.352941,453.411765 C185.090903,452.484852 187.03031,452 189,452 Z"/>
+    <filter id="电脑-f" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic"/>
+    </filter>
+    <filter id="电脑-j" width="101.1%" height="118.8%" x="-.5%" y="-9.4%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="1"/>
+      <feOffset dx="-1" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.768851902   0 0 0 0 0.768851902   0 0 0 0 0.768851902  0 0 0 0.300999781 0"/>
+    </filter>
+    <linearGradient id="电脑-l" x1="38.068%" x2="38.068%" y1="-16.357%" y2="91.362%">
+      <stop offset="0%" stop-color="#B8D0F1"/>
+      <stop offset="56.579%" stop-color="#DEEBF7"/>
+      <stop offset="100%" stop-color="#D0E1F6"/>
+    </linearGradient>
+    <linearGradient id="电脑-n" x1="50%" x2="50%" y1="0%" y2="1.654%">
+      <stop offset="0%" stop-color="#F2F3F4"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+    </linearGradient>
+    <polygon id="电脑-m" points="251 380 360.009 380 360.009 457.658 251 457.658"/>
+    <filter id="电脑-k" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic"/>
+    </filter>
+    <filter id="电脑-o" width="102.8%" height="103.9%" x="-1.4%" y="-1.9%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="1"/>
+      <feOffset dx="-1" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.768851902   0 0 0 0 0.768851902   0 0 0 0 0.768851902  0 0 0 0.300999781 0"/>
+    </filter>
+    <linearGradient id="电脑-s" x1="53.73%" x2="53.73%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#E9F4FF"/>
+      <stop offset="100%" stop-color="#DAE8F9"/>
+    </linearGradient>
+    <path id="电脑-r" d="M24,18 L586.774775,18 C590.088483,18 592.774775,20.6862915 592.774775,24 L592.774775,356.144144 C592.774775,359.457853 590.088483,362.144144 586.774775,362.144144 L24,362.144144 C20.6862915,362.144144 18,359.457853 18,356.144144 L18,24 C18,20.6862915 20.6862915,18 24,18 Z"/>
+    <filter id="电脑-p" width="101.7%" height="102.9%" x="-1%" y="-1.2%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic"/>
+    </filter>
+    <filter id="电脑-q" width="102.8%" height="104.6%" x="-1.6%" y="-2%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.33266857   0 0 0 0 0.33470373   0 0 0 0 0.341485507  0 0 0 0.347055288 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g filter="url(#电脑-a)">
+      <use fill="#000" filter="url(#电脑-b)" xlink:href="#电脑-c"/>
+      <use fill="url(#电脑-d)" xlink:href="#电脑-c"/>
+      <use fill="#000" filter="url(#电脑-e)" xlink:href="#电脑-c"/>
+    </g>
+    <g filter="url(#电脑-f)">
+      <use fill="url(#电脑-g)" xlink:href="#电脑-h"/>
+      <use fill="url(#电脑-i)" xlink:href="#电脑-h"/>
+      <use fill="#000" filter="url(#电脑-j)" xlink:href="#电脑-h"/>
+    </g>
+    <g filter="url(#电脑-k)">
+      <use fill="url(#电脑-l)" xlink:href="#电脑-m"/>
+      <use fill="url(#电脑-n)" xlink:href="#电脑-m"/>
+      <use fill="#000" filter="url(#电脑-o)" xlink:href="#电脑-m"/>
+    </g>
+    <g filter="url(#电脑-p)">
+      <use fill="#000" filter="url(#电脑-q)" xlink:href="#电脑-r"/>
+      <use fill="url(#电脑-s)" xlink:href="#电脑-r"/>
+    </g>
+  </g>
+</svg>

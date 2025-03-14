@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="1g免费-a" x1="100%" x2="0%" y1="33.749%" y2="33.749%">
+      <stop offset="0%" stop-color="#FF995B"/>
+      <stop offset="100%" stop-color="#FC3336"/>
+    </linearGradient>
+    <linearGradient id="1g免费-b" x1="79.872%" x2="15.186%" y1="22.828%" y2="102.516%">
+      <stop offset="0%" stop-color="#FFA389"/>
+      <stop offset="100%" stop-color="#D81616"/>
+    </linearGradient>
+    <path id="1g免费-d" d="M12.5,17 L65.5,17 C66.3284271,17 67,17.6715729 67,18.5 C67,19.3284271 66.3284271,20 65.5,20 L12.5,20 C11.6715729,20 11,19.3284271 11,18.5 C11,17.6715729 11.6715729,17 12.5,17 Z"/>
+    <filter id="1g免费-c" width="107.1%" height="233.3%" x="-5.4%" y="-33.3%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.979393116   0 0 0 0 0.215607351   0 0 0 0 0.154504489  0 0 0 0.541657561 0"/>
+    </filter>
+    <path id="1g免费-f" d="M12.5,27 L30.5,27 C31.3284271,27 32,27.6715729 32,28.5 C32,29.3284271 31.3284271,30 30.5,30 L12.5,30 C11.6715729,30 11,29.3284271 11,28.5 C11,27.6715729 11.6715729,27 12.5,27 Z"/>
+    <filter id="1g免费-e" width="119%" height="233.3%" x="-14.3%" y="-33.3%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.979393116   0 0 0 0 0.215607351   0 0 0 0 0.154504489  0 0 0 0.541657561 0"/>
+    </filter>
+    <path id="1g免费-i" d="M59.0704225,38 C68.8377577,38 76.888799,45.4004436 77.9967106,54.9374254 C78.4967046,54.8802182 79.005535,54.8510638 79.5211268,54.8510638 C86.9653029,54.8510638 93,60.9285602 93,68.4255319 C93,72.1623706 91.5006866,75.5465423 89.0748394,78.001205 L30.9243324,78.000367 C28.4989722,75.5457721 27,72.1619454 27,68.4255319 C27,61.0377394 32.8602091,55.0283793 40.1545533,54.8549163 C41.298984,45.3573749 49.3315505,38 59.0704225,38 Z"/>
+    <filter id="1g免费-g" width="112.1%" height="120%" x="-6.1%" y="-17.5%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic"/>
+    </filter>
+    <filter id="1g免费-h" width="122.7%" height="137.5%" x="-11.4%" y="-26.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="-3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.863083107   0 0 0 0 0.182529265   0 0 0 0 0.160693312  0 0 0 0.642946897 0"/>
+    </filter>
+    <linearGradient id="1g免费-j" x1="16.671%" x2="80.832%" y1="64.597%" y2="37.565%">
+      <stop offset="0%" stop-color="#F8F8F8"/>
+      <stop offset="100%" stop-color="#EEE"/>
+    </linearGradient>
+    <linearGradient id="1g免费-k" x1="0%" x2="100%" y1="71.923%" y2="23.397%">
+      <stop offset="0%" stop-color="#C5C5C5"/>
+      <stop offset="100%" stop-color="#F7F7F7"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="120" height="120"/>
+    <g transform="translate(12 19.727)">
+      <g transform="translate(0 .273)">
+        <path fill="url(#1g免费-a)" stroke="url(#1g免费-b)" d="M60.4595599,0.5 L77.5,17.5404401 L77.5,75 C77.5,75.6903559 77.220178,76.3153559 76.767767,76.767767 C76.3153559,77.220178 75.6903559,77.5 75,77.5 L75,77.5 L3,77.5 C2.30964406,77.5 1.68464406,77.220178 1.23223305,76.767767 C0.779822031,76.3153559 0.5,75.6903559 0.5,75 L0.5,75 L0.5,3 C0.5,2.30964406 0.779822031,1.68464406 1.23223305,1.23223305 C1.68464406,0.779822031 2.30964406,0.5 3,0.5 L3,0.5 L60.4595599,0.5 Z"/>
+        <use fill="#000" filter="url(#1g免费-c)" xlink:href="#1g免费-d"/>
+        <use fill="#FFF" xlink:href="#1g免费-d"/>
+        <use fill="#000" filter="url(#1g免费-e)" xlink:href="#1g免费-f"/>
+        <use fill="#FFF" xlink:href="#1g免费-f"/>
+        <g fill="#000" filter="url(#1g免费-g)" opacity=".721">
+          <use filter="url(#1g免费-h)" xlink:href="#1g免费-i"/>
+        </g>
+      </g>
+      <path fill="url(#1g免费-j)" stroke="url(#1g免费-k)" d="M91.4509478,85.1927951 L91.4507042,85.2727273 L46.1126761,85.2727273 C37.7661755,85.2727273 31,78.5046063 31,70.155706 C31,61.9283916 37.5705375,55.2361497 45.7490446,55.0429749 C47.0321942,44.4661675 56.0384051,36.2727273 66.9577465,36.2727273 C77.9090011,36.2727273 86.9359262,44.5141304 88.1781301,55.1348601 C88.7387294,55.0711521 89.3092362,55.0386847 89.8873239,55.0386847 C98.2338245,55.0386847 105,61.8068057 105,70.155706 C105,77.9764856 99.0627573,84.4101491 91.4509478,85.1927951 Z"/>
+      <text fill="#FC3E3A" fill-rule="nonzero" font-family="Helvetica" font-size="21.818" letter-spacing="-3.27">
+        <tspan x="54" y="71.273">1</tspan> <tspan x="62.864" y="71.273">G</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

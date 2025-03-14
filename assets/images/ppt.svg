@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 218 255">
+  <defs>
+    <path id="ppt-b" d="M102.923063,63.3052241 C102.923063,91.7630809 79.8829508,114.832732 51.4615316,114.832732 C23.0401125,114.832732 1.26831878e-13,91.7630809 1.26831878e-13,63.3052241 C1.26831878e-13,34.8473672 23.0401125,11.7777161 51.4615316,11.7777161 L51.4615316,63.8419689 L102.923063,63.3052241 Z"/>
+    <filter id="ppt-a" width="103.9%" height="103.9%" x="-2.9%" y="-1%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.395550272   0 0 0 0 0.395550272   0 0 0 0 0.395550272  0 0 0 0.518056163 0"/>
+    </filter>
+    <path id="ppt-d" d="M113.21537,52.9997225 C113.21537,23.728784 89.5169681,-4.47641924e-14 60.2835085,-4.47641924e-14 L60.2835085,52.447642 L113.21537,52.9997225 Z"/>
+    <filter id="ppt-c" width="107.6%" height="107.5%" x="-5.7%" y="-1.9%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.395550272   0 0 0 0 0.395550272   0 0 0 0 0.395550272  0 0 0 0.518056163 0"/>
+    </filter>
+    <path id="ppt-g" d="M3.8458278,-1.55376046e-16 L50.1541722,-2.09836195e-15 C51.4914503,1.21920872e-15 51.9763797,0.139238417 52.4652686,0.400699056 C52.9541574,0.662159695 53.3378403,1.04584256 53.5993009,1.53473144 C53.8607616,2.02362033 54,2.50854969 54,3.8458278 L54,50.1541722 C54,51.4914503 53.8607616,51.9763797 53.5993009,52.4652686 C53.3378403,52.9541574 52.9541574,53.3378403 52.4652686,53.5993009 C51.9763797,53.8607616 51.4914503,54 50.1541722,54 L3.8458278,54 C2.50854969,54 2.02362033,53.8607616 1.53473144,53.5993009 C1.04584256,53.3378403 0.662159695,52.9541574 0.400699056,52.4652686 C0.139238417,51.9763797 1.1514242e-15,51.4914503 -1.98169903e-15,50.1541722 L1.03584031e-16,3.8458278 C-6.01853049e-17,2.50854969 0.139238417,2.02362033 0.400699056,1.53473144 C0.662159695,1.04584256 1.04584256,0.662159695 1.53473144,0.400699056 C2.02362033,0.139238417 2.50854969,9.02779573e-17 3.8458278,-1.55376046e-16 Z"/>
+    <filter id="ppt-e" width="105.9%" height="105.9%" x="-4.8%" y="-1.1%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation=".194"/>
+    </filter>
+    <filter id="ppt-f" width="109.6%" height="109.6%" x="-6.6%" y="-2.9%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.167640953 0"/>
+    </filter>
+    <path id="ppt-i" d="M35.8047585,13.639908 C40.5129542,13.639908 44.329701,17.4566547 44.329701,22.1648505 C44.329701,26.6847184 40.8121871,30.3830269 36.3652758,30.6716598 L35.8047585,30.689793 L17.049885,30.686383 L17.049885,39.2147355 C17.049885,40.051748 16.4467448,40.7478897 15.6513703,40.8922543 L15.3448965,40.919724 C14.5078839,40.919724 13.8117423,40.3165837 13.6673776,39.5212093 L13.639908,39.2147355 L13.639908,28.9848045 C13.639908,28.1477919 14.2430482,27.4516503 15.0384226,27.3072856 L15.3448965,27.279816 L35.8047585,27.279816 C38.6296759,27.279816 40.919724,24.9897679 40.919724,22.1648505 C40.919724,19.5061047 38.8911693,17.3211532 36.2973638,17.0732999 L35.8047585,17.049885 L15.3448965,17.049885 C14.4032573,17.049885 13.639908,16.2865356 13.639908,15.3448965 C13.639908,14.5078839 14.2430482,13.8117423 15.0384226,13.6673776 L15.3448965,13.639908 L35.8047585,13.639908 Z"/>
+    <filter id="ppt-h" width="122.8%" height="125.7%" x="-11.4%" y="-9.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.693812274   0 0 0 0 0.291120073   0 0 0 0 0.165838056  0 0 0 0.87032889 0"/>
+    </filter>
+    <path id="ppt-k" d="M106.621035,43 L160.533116,43 C163.085244,43 165.154152,45.0689081 165.154152,47.6210355 C165.154152,50.1731629 163.085244,52.242071 160.533116,52.242071 L106.621035,52.242071 C104.068908,52.242071 102,50.1731629 102,47.6210355 C102,45.0689081 104.068908,43 106.621035,43 Z"/>
+    <filter id="ppt-j" width="106.3%" height="143.3%" x="-4.8%" y="-10.8%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.395550272   0 0 0 0 0.395550272   0 0 0 0 0.395550272  0 0 0 0.518056163 0"/>
+    </filter>
+    <path id="ppt-m" d="M106.621035,70 L160.533116,70 C163.085244,70 165.154152,72.0689081 165.154152,74.6210355 C165.154152,77.1731629 163.085244,79.242071 160.533116,79.242071 L106.621035,79.242071 C104.068908,79.242071 102,77.1731629 102,74.6210355 C102,72.0689081 104.068908,70 106.621035,70 Z"/>
+    <filter id="ppt-l" width="106.3%" height="143.3%" x="-4.8%" y="-10.8%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.395550272   0 0 0 0 0.395550272   0 0 0 0 0.395550272  0 0 0 0.518056163 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="218" height="255" fill="#FFF" rx="4"/>
+    <g transform="translate(52 110)">
+      <use fill="#000" filter="url(#ppt-a)" xlink:href="#ppt-b"/>
+      <use fill="#F46C42" xlink:href="#ppt-b"/>
+      <use fill="#000" filter="url(#ppt-c)" xlink:href="#ppt-d"/>
+      <use fill="#FF9675" xlink:href="#ppt-d"/>
+    </g>
+    <g fill-rule="nonzero" transform="translate(28 34)">
+      <g filter="url(#ppt-e)">
+        <use fill="#000" filter="url(#ppt-f)" xlink:href="#ppt-g"/>
+        <use fill="#F46D43" xlink:href="#ppt-g"/>
+      </g>
+      <use fill="#000" filter="url(#ppt-h)" xlink:href="#ppt-i"/>
+      <use fill="#FFF" xlink:href="#ppt-i"/>
+    </g>
+    <use fill="#000" filter="url(#ppt-j)" xlink:href="#ppt-k"/>
+    <use fill="#DFE8F3" xlink:href="#ppt-k"/>
+    <use fill="#000" filter="url(#ppt-l)" xlink:href="#ppt-m"/>
+    <use fill="#DFE8F3" xlink:href="#ppt-m"/>
+  </g>
+</svg>

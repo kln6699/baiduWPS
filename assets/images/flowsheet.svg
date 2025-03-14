@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 218 255">
+  <defs>
+    <polygon id="流程图-b" points="92.245 25.292 92.245 30.292 49.863 30.292 49.863 25.292"/>
+    <filter id="流程图-a" width="109.4%" height="180%" x="-7.1%" y="-20%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.395550272   0 0 0 0 0.395550272   0 0 0 0 0.395550272  0 0 0 0.518056163 0"/>
+    </filter>
+    <rect id="流程图-d" width="5" height="41" x="25.216" y="40.964"/>
+    <filter id="流程图-c" width="180%" height="109.8%" x="-60%" y="-2.4%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.395550272   0 0 0 0 0.395550272   0 0 0 0 0.395550272  0 0 0 0.518056163 0"/>
+    </filter>
+    <path id="流程图-f" d="M45.4138188,12.9640288 C48.0002974,12.9640288 50.0970527,15.0598597 50.0970527,17.6451981 L50.0970527,37.5401678 C50.0970527,40.1255062 48.0002974,42.2213371 45.4138188,42.2213371 L9.89929462,42.2213371 C7.31281593,42.2213371 5.21606066,40.1255062 5.21606066,37.5401678 L5.21606066,17.6451981 C5.21606066,15.0598597 7.31281593,12.9640288 9.89929462,12.9640288 L45.4138188,12.9640288 Z M45.4138188,17.6451981 L9.89929462,17.6451981 L9.89929462,37.5401678 L45.4138188,37.5401678 L45.4138188,17.6451981 Z"/>
+    <filter id="流程图-e" width="108.9%" height="113.7%" x="-6.7%" y="-3.4%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.395550272   0 0 0 0 0.395550272   0 0 0 0 0.395550272  0 0 0 0.518056163 0"/>
+    </filter>
+    <rect id="流程图-h" width="5" height="42" x="109.216" y="40.964"/>
+    <filter id="流程图-g" width="180%" height="109.5%" x="-60%" y="-2.4%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.395550272   0 0 0 0 0.395550272   0 0 0 0 0.395550272  0 0 0 0.518056163 0"/>
+    </filter>
+    <polygon id="流程图-j" points="48.246 92.464 89.746 92.964 89.686 97.964 48.186 97.464"/>
+    <filter id="流程图-i" width="109.6%" height="172.7%" x="-7.2%" y="-18.2%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.395550272   0 0 0 0 0.395550272   0 0 0 0 0.395550272  0 0 0 0.518056163 0"/>
+    </filter>
+    <path id="流程图-l" d="M127.726155,8.50299135 L100.019048,13.4527388 C98.9646405,13.6411039 98.1473801,14.4802312 97.9869154,15.5392441 L93.7442747,43.5392441 C93.4863137,45.2417004 94.9864068,46.6891776 96.6785719,46.3706204 L122.971465,41.420873 C123.971676,41.2325791 124.757894,40.4567265 124.959444,39.4591025 L130.616298,11.4591025 C130.96562,9.73004837 129.462651,8.19277426 127.726155,8.50299135 Z M124.987,14.071 L120.391,36.818 L99.215,40.804 L102.662,18.059 L124.987,14.071 Z"/>
+    <filter id="流程图-k" width="110.8%" height="110.5%" x="-8.1%" y="-2.6%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.395550272   0 0 0 0 0.395550272   0 0 0 0 0.395550272  0 0 0 0.518056163 0"/>
+    </filter>
+    <path id="流程图-n" d="M42.7261551,76.5029914 L15.0190483,81.4527388 C13.9646405,81.6411039 13.1473801,82.4802312 12.9869154,83.5392441 L8.74427473,111.539244 C8.48631365,113.2417 9.9864068,114.689178 11.6785719,114.37062 L37.9714651,109.420873 C38.9716759,109.232579 39.7578935,108.456727 39.959444,107.459103 L45.6162983,79.4591025 C45.96562,77.7300484 44.4626514,76.1927743 42.7261551,76.5029914 Z M39.987,82.071 L35.391,104.818 L14.215,108.804 L17.662,86.059 L39.987,82.071 Z"/>
+    <filter id="流程图-m" width="110.8%" height="110.5%" x="-8.1%" y="-2.6%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.395550272   0 0 0 0 0.395550272   0 0 0 0 0.395550272  0 0 0 0.518056163 0"/>
+    </filter>
+    <path id="流程图-p" d="M127.833452,82.9640288 C130.2539,82.9640288 132.216061,84.9697931 132.216061,87.4440288 L132.216061,106.484029 C132.216061,108.958264 130.2539,110.964029 127.833452,110.964029 L94.5986694,110.964029 C92.1782214,110.964029 90.2160607,108.958264 90.2160607,106.484029 L90.2160607,87.4440288 C90.2160607,84.9697931 92.1782214,82.9640288 94.5986694,82.9640288 L127.833452,82.9640288 Z M128.216061,86.9640288 L95.2160607,86.9640288 L95.2160607,105.964029 L128.216061,105.964029 L128.216061,86.9640288 Z"/>
+    <filter id="流程图-o" width="109.5%" height="114.3%" x="-7.1%" y="-3.6%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.395550272   0 0 0 0 0.395550272   0 0 0 0 0.395550272  0 0 0 0.518056163 0"/>
+    </filter>
+    <path id="流程图-r" d="M170.511375,64.5819561 C173.051262,64.5819561 175.110247,66.6409413 175.110247,69.1808283 C175.110247,71.7207153 173.051262,73.7797006 170.511375,73.7797006 L109.806261,73.7797006 C107.266374,73.7797006 105.207389,71.7207153 105.207389,69.1808283 C105.207389,66.6409413 107.266374,64.5819561 109.806261,64.5819561 L170.511375,64.5819561 Z M170.511375,38.1491736 C173.051262,38.1491736 175.110247,40.2081589 175.110247,42.7480459 C175.110247,45.2879329 173.051262,47.3469181 170.511375,47.3469181 L109.806261,47.3469181 C107.266374,47.3469181 105.207389,45.2879329 105.207389,42.7480459 C105.207389,40.2081589 107.266374,38.1491736 109.806261,38.1491736 L170.511375,38.1491736 Z"/>
+    <filter id="流程图-q" width="105.7%" height="111.2%" x="-4.3%" y="-2.8%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.395550272   0 0 0 0 0.395550272   0 0 0 0 0.395550272  0 0 0 0.518056163 0"/>
+    </filter>
+    <rect id="流程图-u" width="54" height="54" x="0" y="0" rx="3"/>
+    <filter id="流程图-s" width="105.9%" height="105.9%" x="-4.8%" y="-1.1%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation=".194"/>
+    </filter>
+    <filter id="流程图-t" width="109.6%" height="109.6%" x="-6.6%" y="-2.9%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.167640953 0"/>
+    </filter>
+    <path id="流程图-w" d="M24.4838566,12.1357089 L24.5823376,12.2272078 L33.4918831,21.1367532 C34.1690513,21.8139215 34.1930059,22.8947891 33.5688089,23.6005841 L33.4752293,23.6987764 C30.0918998,26.9952611 27.5544027,29.4676246 25.8627379,31.1158669 C25.8207586,31.1567687 25.7756215,31.2004582 25.7273267,31.2469353 C25.7249224,31.2500231 25.7225672,31.2526222 25.7202033,31.2552162 L25.5649098,31.4030509 L25.5412201,31.4249668 C25.2656969,31.6871643 24.9132423,32.0172766 24.4838566,32.4153037 L24.433,32.46 L21.8824117,34.8431787 L25.1845117,38.1704787 L35.4985117,38.1704787 L38.7970117,34.8476787 L35.5471117,31.8623787 L31.5179983,31.8629014 C30.5690727,31.8629014 29.7916497,31.1286114 29.7229354,30.1972375 L29.7179983,30.0629014 C29.7179983,29.1139758 30.4522883,28.3365528 31.3836622,28.2678386 L31.5179983,28.2628929 L36.2475892,28.2628929 C36.6422107,28.2628929 37.0242516,28.3925222 37.3360998,28.6293188 L37.4652835,28.7372994 L42.6094744,33.4627389 C43.3240811,34.1191746 43.3843266,35.2149053 42.7716314,35.9443746 L42.669295,36.0563927 L37.5251041,41.2389733 C37.2247112,41.541608 36.8279848,41.7265302 36.4066171,41.7638877 L36.2475892,41.7709214 L24.4350027,41.7709214 C24.0085948,41.7709214 23.5978668,41.6196253 23.2745106,41.3468852 L23.1574877,41.2389733 L18.0132968,36.0563927 C17.331379,35.3693859 17.3198646,34.2752549 17.9617009,33.5743135 L18.0684705,33.4670227 L22.485,29.38 L29.6575966,22.3923627 L23.3095454,16.0443116 L16.9455844,22.4082727 L20.4327102,25.8966712 C21.1037019,26.567663 21.1342016,27.6366055 20.5242091,28.3437746 L20.4327102,28.4422556 C19.7617185,29.1132474 18.6927759,29.143747 17.9856069,28.5337545 L17.8871258,28.4422556 L13.1272078,23.6823376 C12.4562161,23.0113459 12.4257164,21.9424034 13.0357089,21.2352343 L13.1272078,21.1367532 L22.0367532,12.2272078 C22.707745,11.5562161 23.7766875,11.5257164 24.4838566,12.1357089 Z"/>
+    <filter id="流程图-v" width="113.1%" height="113.3%" x="-6.5%" y="-3.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.308548406   0 0 0 0 0.245807098   0 0 0 0 0.565217391  0 0 0 0.776660839 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="218" height="255" fill="#FFF" rx="4"/>
+    <g transform="translate(40 102)">
+      <use fill="#000" filter="url(#流程图-a)" xlink:href="#流程图-b"/>
+      <use fill="#DFE8F3" xlink:href="#流程图-b"/>
+      <use fill="#000" filter="url(#流程图-c)" xlink:href="#流程图-d"/>
+      <use fill="#DFE8F3" xlink:href="#流程图-d"/>
+      <use fill="#000" filter="url(#流程图-e)" xlink:href="#流程图-f"/>
+      <use fill="#DFE8F3" xlink:href="#流程图-f"/>
+      <use fill="#000" filter="url(#流程图-g)" xlink:href="#流程图-h"/>
+      <use fill="#DFE8F3" xlink:href="#流程图-h"/>
+      <use fill="#000" filter="url(#流程图-i)" xlink:href="#流程图-j"/>
+      <use fill="#DFE8F3" xlink:href="#流程图-j"/>
+      <g transform="rotate(45 112.191 27.439)">
+        <use fill="#000" filter="url(#流程图-k)" xlink:href="#流程图-l"/>
+        <use fill="#8973E3" xlink:href="#流程图-l"/>
+      </g>
+      <g transform="rotate(45 27.191 95.439)">
+        <use fill="#000" filter="url(#流程图-m)" xlink:href="#流程图-n"/>
+        <use fill="#DFE8F3" xlink:href="#流程图-n"/>
+      </g>
+      <use fill="#000" filter="url(#流程图-o)" xlink:href="#流程图-p"/>
+      <use fill="#DFE8F3" xlink:href="#流程图-p"/>
+    </g>
+    <use fill="#000" filter="url(#流程图-q)" xlink:href="#流程图-r"/>
+    <use fill="#DFE8F3" xlink:href="#流程图-r"/>
+    <g fill-rule="nonzero" transform="translate(28.37 29)">
+      <g filter="url(#流程图-s)">
+        <use fill="#000" filter="url(#流程图-t)" xlink:href="#流程图-u"/>
+        <use fill="#8973E3" xlink:href="#流程图-u"/>
+      </g>
+      <use fill="#000" filter="url(#流程图-v)" xlink:href="#流程图-w"/>
+      <use fill="#FFF" xlink:href="#流程图-w"/>
+    </g>
+  </g>
+</svg>
